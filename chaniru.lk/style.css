@@ -70,6 +70,10 @@ Copyright © 2023-25 | All rights reserved
 	overflow:hidden;
 	height:100vh !important;
 }
+
+.bold{
+	font-weight: bold !important;
+}
 	  
 /*--------------------------------------------------
 	01. General Settings
