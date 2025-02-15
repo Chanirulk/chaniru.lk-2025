@@ -69,6 +69,7 @@ Copyright © 2023-25 | All rights reserved
 .full figure.has-parallax-ck {		
 	overflow:hidden;
 	height:100vh !important;
+	object-fit: cover !important;
 }
 
 .bold{
