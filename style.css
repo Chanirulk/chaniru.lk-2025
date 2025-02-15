@@ -391,10 +391,12 @@ Copyright © 2023-25 | All rights reserved
 	
 	figure.has-parallax {		
 		overflow:hidden;
+		object-fit: cover !important;
 	}
 	
 	.full figure.has-parallax {		
 		overflow:hidden;
+		object-fit: cover !important;
 		height:60vh;
 	}
 	
